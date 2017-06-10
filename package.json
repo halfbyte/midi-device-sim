@@ -1,0 +1,14 @@
+{
+  "name": "midi_simulator",
+  "version": "1.0.0",
+  "description": "A flexible MIDI device sim",
+  "main": "index.js",
+  "author": "Jan Krutisch",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
